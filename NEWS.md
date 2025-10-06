@@ -1,4 +1,4 @@
-# musicatk 2.2.1 (2025-07-15)
+# musicatk 2.2.2 (2025-07-15)
 * Removed conclust dependency
 * Fixed plotting issues with indels
 * Cosmetic changes to k value and plotting code
